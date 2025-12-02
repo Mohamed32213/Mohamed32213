@@ -2,7 +2,7 @@
 
 <p>Welcome to my GitHub profile! </br> 
 I'm <b>Mohamed Ragab</b>, a Frontend Developer from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197620.png" width="13"/> <b>Egypt</b>. 
+ <b>Egypt</b>. 
 </p>
 
 <h3>Things I code with</h3>
